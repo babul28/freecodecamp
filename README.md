@@ -5,9 +5,10 @@ A repository to store my learning progress on freecodecamp course.
 ### Table of content
 
 #### [Javascript Algorithm and Data Structures Certification](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/)
+
 - [Intermediate Algorithm Scripting]()
-  - [ ] Sum All Numbers in a Range
-  - [ ] Diff Two Arrays
+  - [x] Sum All Numbers in a Range
+  - [x] Diff Two Arrays
   - [ ] Seek and Destroy
   - [ ] Wherefore art thou
   - [ ] Spinal Tap Case
