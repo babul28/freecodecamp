@@ -1,15 +1,15 @@
-## Progress On Freecodecamp
+# My Learning Progress On Freecodecamp Courses
 
 A repository to store my learning progress on freecodecamp course.
 
-### Table of content
+## Table of content
 
-#### [Javascript Algorithm and Data Structures Certification](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/)
+### [Javascript Algorithm and Data Structures Certification](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/)
 
 - [Intermediate Algorithm Scripting]()
   - [x] Sum All Numbers in a Range
   - [x] Diff Two Arrays
-  - [ ] Seek and Destroy
+  - [x] Seek and Destroy
   - [ ] Wherefore art thou
   - [ ] Spinal Tap Case
   - [ ] Pig Latin
@@ -36,7 +36,7 @@ Follow this step :
 ```bash
     $ git clone https://github.com/babul28/freecodecamp.git # clone the repo
     $ cd freecodecamp && code . # cd into the repo and open it with vs code
-    $ running with your vscode runner extension
+    $ copy and paste on your browser console
 ```
 
 ---
